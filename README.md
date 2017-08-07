@@ -61,3 +61,5 @@ This will create another pouch peer that the mobile devices will also sync to.
 
 ## License
 MIT.
+
+https://blogs.windows.com/msedgedev/2017/07/27/node-chakracore-update-n-api-ios/
